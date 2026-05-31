@@ -1,5 +1,3 @@
-<img width="395" height="855" alt="Screenshot 2026-05-31 at 11 20 04 PM" src="https://github.com/user-attachments/assets/df0e6600-a96e-43be-8228-35fac40bc5b1" /><img width="395" height="855" alt="Screenshot 2026-05-31 at 11 20 04 PM" src="https://github.com/user-attachments/assets/6804d64e-8f1a-4bd6-baa8-b50145eb72c6" /># Dialog Boxes in Android 📱
-
 This project was made while learning different types of Dialog Boxes in Android using Kotlin.
 At first I thought 😄
 "Dialog box toh easy hoga"
