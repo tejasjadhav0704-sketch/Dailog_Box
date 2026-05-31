@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Dialog_boxes_Types</string>
+    <string name="custom_dailog_task_completed">Custom Dailog Task Completed!</string>
+    <string name="ready_to_optimize_your_workflow_nwith_me">Ready to optimize your workflow ?\nWith Me ?</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="maybe_later">Maybe later</string>
 </resources>
